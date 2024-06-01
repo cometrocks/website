@@ -1,0 +1,20 @@
+[
+  {
+    "imgSrc": "path/to/influencer-collaboration.png",
+    "altText": "Influencer collaboration",
+    "title": "Influencer collaboration",
+    "description": "Co-create unique satellite stores for each influencer you work with and pay them automatically per sale generated with 100% attribution and creative control."
+  },
+  {
+    "imgSrc": "path/to/paid-social-channels.png",
+    "altText": "Paid Social channels",
+    "title": "Paid Social channels",
+    "description": "Drive mobile traffic from social media apps to satellite stores with immersive, app-like UX to keep your audience engaged."
+  },
+  {
+    "imgSrc": "path/to/affiliate-channels.png",
+    "altText": "Affiliate channels",
+    "title": "Affiliate channels",
+    "description": "Sell directly within affiliate partners' native experiences for higher conversion and pay them automatically per sale generated without attribution problems."
+  }
+]
